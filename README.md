@@ -24,8 +24,8 @@
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/codetogether.git
-    cd codetogether
+    git clone https://github.com/EshuTomar/codeTogether.git
+    cd codeTogether
     ```
 
 2. **Install dependencies for the frontend and backend:**
