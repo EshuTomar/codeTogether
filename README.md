@@ -64,6 +64,9 @@
 
     Open your browser and navigate to `http://localhost:3000` to start collaborating.
 
+   ---
+   
+
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to **CodeTogether**, please fork the repository, create a new branch, and submit a pull request.
